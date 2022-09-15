@@ -419,7 +419,8 @@
                 "unitedkingdom",
                 "france",
                 "germany",
-                "australia"
+                "australia",
+                "norway"
             ],
             "defaultValue": "unitedstates",
             "metadata": {
