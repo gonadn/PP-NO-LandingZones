@@ -121,7 +121,7 @@
                 "australia",
                 "norway"
             ],
-            "defaultValue": "unitedstates",
+            "defaultValue": "norway",
             "metadata": {
                 "description": "Provide location for the Admin environments."
             }
@@ -240,7 +240,7 @@
                 "australia",
                 "norway"
             ],
-            "defaultValue": "unitedstates",
+            "defaultValue": "norway",
             "metadata": {
                 "description": "Provide location for the Admin environments."
             }
@@ -319,7 +319,7 @@
                 "australia",
                 "norway"
             ],
-            "defaultValue": "unitedstates",
+            "defaultValue": "norway",
             "metadata": {
                 "description": "Provide location for the pro dev environments."
             }
@@ -422,7 +422,7 @@
                 "australia",
                 "norway"
             ],
-            "defaultValue": "unitedstates",
+            "defaultValue": "norway",
             "metadata": {
                 "description": "Provide location for the pro dev environments."
             }
@@ -459,7 +459,7 @@
         },
         "scriptUri": {
             "type": "string",
-            "defaultValue": "https://raw.githubusercontent.com/microsoft/industry/main/foundations/powerPlatform/referenceImplementation/auxiliary/powerPlatform/nsPowerPlatform.ps1",
+            "defaultValue": "https://raw.githubusercontent.com/gonadn/PP-NO-LandingZones/main/auxiliary/powerPlatform/nsPowerPlatform.ps1",
             "metadata": {
                 "description": "The uri pointing to the PowerShell script used in the deploymentScript"
             }
