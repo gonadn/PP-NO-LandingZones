@@ -544,7 +544,7 @@
         },
         "ppCitizenConfiguration": {
             "type": "string",
-            "defaulValue": "",
+            "defaultValue": "",
             "metadata": {
                 "description": "Provide strings for custom citizen Environment creation."
             }
